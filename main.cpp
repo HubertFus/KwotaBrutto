@@ -8,4 +8,5 @@ int main() {
 	cout<<"kwota podatku \t" << kwotapod<<endl;
 	cout<<"kwota netto: \t"<< brutto-kwotapod<<endl;
 	return 0;
+	//test
 }
